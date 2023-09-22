@@ -58,7 +58,7 @@ I'm currently working as a teacher in a French bootcamp, La Capsule. I'm trainin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=greenystuff&show_icons=true&line_height=27&theme=radical"/>
 </a>
 <a href="https://github.com/Greenystuff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenystuff&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenystuff&langs_count=3&theme=radical" />
 </a>
 </div>
 
