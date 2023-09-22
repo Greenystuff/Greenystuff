@@ -28,7 +28,7 @@ I'm currently working as a teacher in a French bootcamp, La Capsule. I'm trainin
 - 🌱 &nbsp; I'm on track with learning more about Desktop applications with C# and its framework WPF
 - 🥅 &nbsp; Goals : overcome my imposter syndrome
 - 💬 &nbsp; Ask me about Astronomy, fishing and bass guitar
-- ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
+- ⚡ &nbsp; Fun fact: I never eat couscous without gruyere
 
 <br>
 
