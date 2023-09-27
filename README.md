@@ -6,10 +6,9 @@ Hello world!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+David+Meunier;I'm+a+Junior+Fullstack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+David+Meunier;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons section - https://icons8.com/icons/set/social-media--purple-->
 <p align="center">
   <a href="https://www.linkedin.com/in/david-meunier-69928a192/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/social_logo/linkedin_purple.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
