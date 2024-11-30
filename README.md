@@ -21,13 +21,13 @@ Hello world!
 ## About me
 
 I'm currently working as a Fullstack Developer for a company called MCMA Solutions, which operates in the field of energy management for large enterprises and the public sector : <br>
-🚀  Next.js / Redux / MongoDB / Express / Java Spring / React / VueJS 🚀
+🚀 Next.js / Redux / MongoDB / Express / Java Spring / React / VueJS 🚀
 
-- 🔭 &nbsp; **I am passionate and happy as a Web Developer**
-- 🌱 &nbsp; I'm on track with learning more about Desktop applications with C# and its framework WPF
-- 🥅 &nbsp; Goals : overcome my imposter syndrome
-- 💬 &nbsp; Ask me about Astronomy, fishing and bass guitar
-- ⚡ &nbsp; Fun fact: I never eat couscous without gruyere
+-   🔭 &nbsp; I am passionate and happy as a Web Developer
+-   🌱 &nbsp; I'm on track with learning more about Desktop applications with C# and its framework WPF
+-   🥅 &nbsp; Goals : overcome my imposter syndrome
+-   💬 &nbsp; Ask me about Astronomy, fishing and bass guitar
+-   ⚡ &nbsp; Fun fact: I never eat couscous without gruyere
 
 <br>
 
@@ -40,10 +40,11 @@ I'm currently working as a Fullstack Developer for a company called MCMA Solutio
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/csharp.svg" alt="c#" style="vertical-align:top; margin:4px">
+  
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  
-  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/csharp.svg" alt="c#" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px">
 </p>
 
@@ -60,8 +61,6 @@ I'm currently working as a Fullstack Developer for a company called MCMA Solutio
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenystuff&langs_count=3&theme=radical" />
 </a>
 </div>
-
-
 
 ## Miscellaneous
 
