@@ -20,8 +20,8 @@ Hello world!
 
 ## About me
 
-I'm currently working as a teacher in a French bootcamp, La Capsule. I'm training students to become Fullstack JS Developers : <br>
-🚀  Next.js / Redux / MongoDB / Express 🚀
+I'm currently working as a Fullstack Developer for a company called MCMA Solutions, which operates in the field of energy management for large enterprises and the public sector : <br>
+🚀  Next.js / Redux / MongoDB / Express / Java Spring / React / VueJS 🚀
 
 - 🔭 &nbsp; **I am passionate and happy as a Web Developer**
 - 🌱 &nbsp; I'm on track with learning more about Desktop applications with C# and its framework WPF
