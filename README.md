@@ -44,6 +44,7 @@ I'm currently working as a Fullstack Developer for a company called MCMA Solutio
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/csharp.svg" alt="c#" style="vertical-align:top; margin:4px">
   
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px">
 </p>
