@@ -20,7 +20,7 @@ Hello world!
 
 ## About me
 
-I'm currently working as a Fullstack Developer for a company called MCMA Solutions, which operates in the field of energy management for large enterprises and the public sector : <br>
+I'm currently working as a Fullstack Developer for a company called MCMA Solutions, which operates in the field of energy management for large enterprises and the public sector<br>
 🚀 Vue3 / Nuxt / React / Next / WPF / MongoDB / SQL / Express / Spring 🚀
 
 -   🔭 &nbsp; I am passionate and happy as a Web Developer
