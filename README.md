@@ -21,7 +21,7 @@ Hello world!
 ## About me
 
 I'm currently working as a Fullstack Developer for a company called MCMA Solutions, which operates in the field of energy management for large enterprises and the public sector : <br>
-🚀 VueJS / Nuxt / / React / Next / WPF / MongoDB / SQL / Express / Spring 🚀
+🚀 Vue3 / Nuxt / React / Next / WPF / MongoDB / SQL / Express / Spring 🚀
 
 -   🔭 &nbsp; I am passionate and happy as a Web Developer
 -   🌱 &nbsp; I'm on track with learning more about Desktop applications with C# and its framework WPF
